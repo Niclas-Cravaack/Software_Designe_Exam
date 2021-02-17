@@ -1,0 +1,45 @@
+[
+  {
+    "book_title": "Septimus Heap : Magyk",
+    "release_year": "2005",
+    "ISBN": "136800000",
+    "genre": "Fantasy",
+    "authors": "Angie Sage"
+  },
+  {
+    "book_title": "Septimus Heap : Flyte",
+    "release_year": "2006",
+    "ISBN": "1005000000",
+    "genre": "Fantasy",
+    "authors": "Angie Sage"
+  },
+  {
+    "book_title": "Septimus Heap : Physic",
+    "release_year": "2007",
+    "ISBN": "327300000",
+    "genre": "Fantasy",
+    "authors": "Angie Sage , Bob Marley"
+  },
+  {
+    "book_title": "Der Alchemist",
+    "release_year": "1996",
+    "ISBN": "978-3-257-23727-6",
+    "genre": "Fantasy",
+    "authors": "Paulo Coelho"
+  },
+  {
+    "book_title": "Nachrichten aus einem unbekannten Unversum",
+    "release_year": "2013",
+    "ISBN": "978-3-596-51286-7",
+    "genre": "SciFi",
+    "authors": "Frank Schätzing"
+  },
+  {
+    "book_title": "Qualityland",
+    "release_year": "2017",
+    "ISBN": "978-3-550-05015-2",
+    "genre": "SciFi",
+    "authors": "Marc Uwe Kling"
+  }
+ 
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "book_title": "Septimus Heap : Magyk",
+    "release_year": "2005",
+    "ISBN": "136800000",
+    "authors": ["Angie Sage"]
+  },
+  {
+    "book_title": "Septimus Heap : Flyte",
+    "release_year": "2006",
+    "ISBN": "1005000000",
+    "authors": ["Angie Sage"]
+  },
+  {
+    "book_title": "Septimus Heap : Physic",
+    "release_year": "2007",
+    "ISBN": "327300000",
+    "authors": ["Angie Sage"]
+  },
+  {
+    "book_title": "The Departed",
+    "release_year": "2006",
+    "ISBN": "2915000000",
+    "authors": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson", "Mark Wahlberg"]
+  }
+]
